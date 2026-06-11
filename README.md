@@ -28,6 +28,9 @@ An IoT-based smart dustbin that automatically opens its lid when someone approac
 - Ultrasonic VCC → Arduino 5V
 - Ultrasonic GND → Arduino GND
 
+## Circuit Diagram
+`circuit_diagram.jpeg` shows the circuit diagram of the smart dustbin setup.
+
 ## How It Works
 - Ultrasonic sensor continuously sends out sound waves
 - When an object comes within 50cm, the waves bounce back

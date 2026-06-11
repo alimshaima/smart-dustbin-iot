@@ -1,0 +1,30 @@
+SMART DUSTBIN - COMPONENTS LIST
+
+1. Arduino Uno R3 Compatible Board
+   - Microcontroller: ATmega328
+   - 14 Digital I/O Pins (6 PWM outputs)
+   - 6 Analog Inputs
+   - 16 MHz Ceramic Resonator
+
+2. HC-SR04 Ultrasonic Distance Measuring Sensor
+   - Operating Voltage: 5V DC
+   - Sensing Range: 2cm to 400cm
+   - Accuracy: 3mm
+
+3. 9g Micro Servo Motor
+   - Operating Voltage: 4.8V - 6V
+   - Torque: 1.5kg/cm
+   - Speed: 0.1 sec/60 degrees
+
+4. Jumper Cables
+   - Length: 20cm
+   - Types: M-M, M-F, F-F
+   - Quantity: 10 pieces each type
+
+5. Power Supply
+   - 9V Battery
+   - Battery Snap Connector
+   - DC Barrel Jack Adapter
+
+6. Dustbin
+   - Any size with hinged lid
